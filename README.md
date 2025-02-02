@@ -7,13 +7,10 @@ Developed by [ruslanmv.com](https://ruslanmv.com), YourFriend.online leverages c
 The aim of the project is develop a custom AI Chatbot Companion along your life.
 
 
-
-
 ## 🌍 One-Click Preview
 You can open YourFriend.online chatbot instantly *:
 
 [![Open](./public/img/yf.jpg)](https://YourFriend.online)
-
 
 
 ## 🚀 Tech Stack
