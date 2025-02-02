@@ -4,6 +4,18 @@ YourFriend.online is a next-generation AI chatbot designed to be your digital co
 
 Developed by [ruslanmv.com](https://ruslanmv.com), YourFriend.online leverages cutting-edge AI and database technologies to deliver an intelligent, context-aware conversational experience.
 
+The aim of the project is develop a custom AI Chatbot Companion along your life.
+
+
+
+
+## 🌍 One-Click Preview
+You can open YourFriend.online chatbot instantly *:
+
+[![Open](./public/img/yf.jpg)](https://YourFriend.online)
+
+
+
 ## 🚀 Tech Stack
 
 - **Next.js** - Frontend & Backend framework
@@ -12,12 +24,6 @@ Developed by [ruslanmv.com](https://ruslanmv.com), YourFriend.online leverages c
 - **Tailwind CSS** - Modern styling
 - **Netlify** - Deployment platform
 - **Apideck Components** - UI notifications and modals
-
-## 🌍 One-Click Deployment
-
-Deploy the chatbot instantly on **Netlify**:
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/mongodb-developer/netlify-mongodb-nextjs-ai-chatbot)
 
 ### Environment Variables:
 Ensure you set the required variables before deployment:
@@ -32,7 +38,7 @@ MONGODB_SOURCE_COLLECTION=your_embedded_collection
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repo/yourfriend-online.git
+   git clone https://github.com/ruslanmv/yourfriend-online.git
    cd yourfriend-online
    ```
 
@@ -114,6 +120,13 @@ Use the **Netlify CLI** to deploy:
 ```bash
 netlify deploy --prod
 ```
+
+## 🌍 One-Click Deployment
+Or if you want run your own system, deploy YourFriend.online chatbot instantly on **Netlify**:
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ruslanmv/yourfriend-online.git)
+
+
 
 ## 🤝 Contributing
 This project is open-source and welcomes contributions! Feel free to submit pull requests or open GitHub issues.
